@@ -1,0 +1,44 @@
+{
+    "footer": [
+        {
+            "name": "音乐开放平台",
+            "img": "",
+            "href": "https://developer.music.163.com/st/developer"
+        },
+        {
+            "name": "云村交易所",
+            "img": "",
+            "href": "https://developer.music.163.com/st/developer"
+        },
+        {
+            "name": "Amped Studio",
+            "img": "",
+            "href": "https://developer.music.163.com/st/developer"
+        },
+        {
+            "name": "X Studio虚拟歌手",
+            "img": "",
+            "href": "https://developer.music.163.com/st/developer"
+        },
+        {
+            "name": "用户认证",
+            "img": "",
+            "href": "https://developer.music.163.com/st/developer"
+        },
+        {
+            "name": "音乐交易平台",
+            "img": "",
+            "href": "https://developer.music.163.com/st/developer"
+        },
+        {
+            "name": "云推歌",
+            "img": "",
+            "href": "https://developer.music.163.com/st/developer"
+        },
+        {
+            "name": "赞赏",
+            "img": "",
+            "href": "https://developer.music.163.com/st/developer"
+        }
+    ]
+}
